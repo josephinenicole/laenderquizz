@@ -1,0 +1,54 @@
+C:\Users\tn\source\repos\LaenderspielApp\LaenderspielApp\bin\Debug\LaenderspielApp.exe.config
+C:\Users\tn\source\repos\LaenderspielApp\LaenderspielApp\bin\Debug\LaenderspielApp.exe
+C:\Users\tn\source\repos\LaenderspielApp\LaenderspielApp\bin\Debug\LaenderspielApp.pdb
+C:\Users\tn\source\repos\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.csproj.AssemblyReference.cache
+C:\Users\tn\source\repos\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.Properties.Resources.resources
+C:\Users\tn\source\repos\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.csproj.GenerateResource.cache
+C:\Users\tn\source\repos\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.csproj.CoreCompileInputs.cache
+C:\Users\tn\source\repos\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.exe
+C:\Users\tn\source\repos\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.pdb
+C:\Users\tn\source\repos\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.LaenderspielAppFragen.resources
+C:\Users\tn\source\repos\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.Hauptfenster.resources
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C#_Projektwoche_benotet\LaenderspielApp\LaenderspielApp\bin\Debug\LaenderspielApp.exe.config
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C#_Projektwoche_benotet\LaenderspielApp\LaenderspielApp\bin\Debug\LaenderspielApp.exe
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C#_Projektwoche_benotet\LaenderspielApp\LaenderspielApp\bin\Debug\LaenderspielApp.pdb
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C#_Projektwoche_benotet\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.csproj.AssemblyReference.cache
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C#_Projektwoche_benotet\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.Hauptfenster.resources
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C#_Projektwoche_benotet\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.LaenderspielAppFragen.resources
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C#_Projektwoche_benotet\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.Properties.Resources.resources
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C#_Projektwoche_benotet\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.csproj.GenerateResource.cache
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C#_Projektwoche_benotet\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.csproj.CoreCompileInputs.cache
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C#_Projektwoche_benotet\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.exe
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C#_Projektwoche_benotet\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.pdb
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\bin\Debug\LaenderspielApp.exe.config
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\bin\Debug\LaenderspielApp.exe
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\bin\Debug\LaenderspielApp.pdb
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\bin\Debug\MySql.Data.dll
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\bin\Debug\System.Memory.dll
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\bin\Debug\System.Buffers.dll
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\bin\Debug\MySql.Data.xml
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.csproj.AssemblyReference.cache
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.Hauptfenster.resources
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.Properties.Resources.resources
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.csproj.GenerateResource.cache
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.csproj.CoreCompileInputs.cache
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.csproj.CopyComplete
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.exe
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.pdb
+C:\Users\Nicole\Documents\Fachinformatik Anwendungsentwicklung\C# Programmierung 2_Projektarbeit\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tn\Documents\GPB\C# 2_Projektwoche\Länder App_benotet\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.csproj.AssemblyReference.cache
+C:\Users\tn\Documents\GPB\C# 2_Projektwoche\Länder App_benotet\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.Hauptfenster.resources
+C:\Users\tn\Documents\GPB\C# 2_Projektwoche\Länder App_benotet\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.Properties.Resources.resources
+C:\Users\tn\Documents\GPB\C# 2_Projektwoche\Länder App_benotet\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.csproj.GenerateResource.cache
+C:\Users\tn\Documents\GPB\C# 2_Projektwoche\Länder App_benotet\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.csproj.CoreCompileInputs.cache
+C:\Users\tn\Documents\GPB\C# 2_Projektwoche\Länder App_benotet\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\bin\Debug\LaenderspielApp.exe.config
+C:\Users\tn\Documents\GPB\C# 2_Projektwoche\Länder App_benotet\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\bin\Debug\LaenderspielApp.exe
+C:\Users\tn\Documents\GPB\C# 2_Projektwoche\Länder App_benotet\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\bin\Debug\LaenderspielApp.pdb
+C:\Users\tn\Documents\GPB\C# 2_Projektwoche\Länder App_benotet\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\bin\Debug\System.Memory.dll
+C:\Users\tn\Documents\GPB\C# 2_Projektwoche\Länder App_benotet\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tn\Documents\GPB\C# 2_Projektwoche\Länder App_benotet\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tn\Documents\GPB\C# 2_Projektwoche\Länder App_benotet\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\bin\Debug\System.Buffers.dll
+C:\Users\tn\Documents\GPB\C# 2_Projektwoche\Länder App_benotet\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.csproj.CopyComplete
+C:\Users\tn\Documents\GPB\C# 2_Projektwoche\Länder App_benotet\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.exe
+C:\Users\tn\Documents\GPB\C# 2_Projektwoche\Länder App_benotet\20240122_C# 2_Länderspiel App_benotet\LaenderspielApp\LaenderspielApp\obj\Debug\LaenderspielApp.pdb

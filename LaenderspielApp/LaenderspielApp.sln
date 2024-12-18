@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaenderspielApp", "LaenderspielApp\LaenderspielApp.csproj", "{BD52008F-0A08-453F-8E3E-9929082A4C5A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projektmappenelemente", "Projektmappenelemente", "{48232236-519E-495E-BC2B-A4742C268FF8}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\Downloads\mysql.data.8.3.0\lib\net6.0\MySql.Data.dll = ..\..\..\..\..\Downloads\mysql.data.8.3.0\lib\net6.0\MySql.Data.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD52008F-0A08-453F-8E3E-9929082A4C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD52008F-0A08-453F-8E3E-9929082A4C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD52008F-0A08-453F-8E3E-9929082A4C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD52008F-0A08-453F-8E3E-9929082A4C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {338A122B-8107-4754-8ABC-567CFAEE16E2}
+	EndGlobalSection
+EndGlobal

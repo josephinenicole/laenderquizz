@@ -1,0 +1,1 @@
+INSERT INTO `highscore` (`ID`, `SpielerName`, `Punktzahl`, `Datum`) VALUES (NULL, 'Albert', '5', '2024-02-01 13:41:26'), (NULL, 'Beatrice', '7', '2024-02-02 13:41:26');
